@@ -17,5 +17,6 @@ public class GitTest {
         System.out.println("hello git444");
         System.out.println("master test");
         System.out.println("host-fix test");
+        System.out.println("push test");
     }
 }
